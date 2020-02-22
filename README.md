@@ -35,7 +35,7 @@ It returns an iterator of tuples, where each tuple contains two words and their 
 
 ## The SkipGram Class
 
-Here is where most of the work has been done. This class allows to create a Skip-Gram instance.
+Here is where most of the work has been done.
 
 ### Function __init__
 The function **__init__** takes 5 parameters:
